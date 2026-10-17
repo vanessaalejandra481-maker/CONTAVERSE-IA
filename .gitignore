@@ -1,0 +1,12 @@
+# Datos, credenciales y archivos locales que NO deben publicarse
+*.jsonl
+*.csv
+*.xlsx
+*.xls
+.env
+.env.*
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
